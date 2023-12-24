@@ -41,5 +41,7 @@ start_index = 0
       - '**handler.mark_image()**' to mark the current pair of images to be excluded from the dataset. The images will be moved to the exclusion folder.
 
 ## Example data
+In the folder '**example_data**' you can find some example images to test the tool. There are 5 [Planet-NICFI]("https://www.planet.com/nicfi/") images around the Democratic Republic of Congo, and their corresponding ground truth images. The ground truth images are binary masks, where 1 represents artisanal and small scale maning (ASM) and 0 represents anything else. The images are named according to the naming convention described above.
 
 ## Contributing
+Feel free to fork the repository, make changes, and submit pull requests. If you encounter any issues or have suggestions for improvements, please submit them as issues in the repository.
