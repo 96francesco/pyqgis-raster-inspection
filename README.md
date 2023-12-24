@@ -1,1 +1,3 @@
-# qgis-raster-inspection
+# Raster inspection with QGIS
+
+Repository under construction
